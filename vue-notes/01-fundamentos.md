@@ -14,3 +14,6 @@ vue trabaja con un virtual dom
 Forma de crear un proyecto con el gestor de vue
 
 vue create NOMBRE_PROYECTO
+
+
+![alt text](image-2.png)
