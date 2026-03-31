@@ -14,3 +14,22 @@ vue trabaja con un virtual dom
 Forma de crear un proyecto con el gestor de vue
 
 vue create NOMBRE_PROYECTO
+
+
+Option API
+
+![alt text](image-3.png)
+
+composition API
+
+![alt text](image-4.png)
+
+Directivas
+
+![alt text](image-5.png)
+
+Estructura Directiva
+
+![alt text](image-6.png)
+
+Directivas Selectivas (Renderizado condicional)
