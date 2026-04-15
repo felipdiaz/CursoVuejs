@@ -17,3 +17,20 @@ vue create NOMBRE_PROYECTO
 
 
 ![alt text](image-2.png)
+Option API
+
+![alt text](image-3.png)
+
+composition API
+
+![alt text](image-4.png)
+
+Directivas
+
+![alt text](image-5.png)
+
+Estructura Directiva
+
+![alt text](image-6.png)
+
+Directivas Selectivas (Renderizado condicional)
