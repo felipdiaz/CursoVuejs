@@ -1,12 +1,12 @@
 <template>
   
   <!--<PostContainer />-->
-  <CounterOption />
+  <PostList />
 </template>
 
 <script lang="ts" setup>
 //import PostContainer from './components/PostContainer.vue';
-import CounterOption from './components/CounterOption.vue';
+import PostList from './components/PostList.vue';
 
 </script>
 
