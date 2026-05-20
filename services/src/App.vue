@@ -1,4 +1,5 @@
 <template>
+<<<<<<< HEAD
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/>
 </template>
@@ -24,4 +25,17 @@ export default defineComponent({
   color: #2c3e50;
   margin-top: 60px;
 }
+=======
+  <div>Hola Mundo</div>
+</template>
+
+<script lang="ts">
+  import PostService from './services/PostService.vue';
+  
+
+</script>
+
+<style>
+
+>>>>>>> 914cb401c3beacaacaeec3d5d0a03265d6907782
 </style>
