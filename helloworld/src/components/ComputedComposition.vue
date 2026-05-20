@@ -9,7 +9,7 @@
 <script lang="ts">
 import { defineComponent, Ref, ref, computed } from 'vue';
 
-export defaulxt defineComponent({
+export default defineComponent({
     name: 'ComputedComposition',
     setup() {
         let message:Ref<string> = ref('')
